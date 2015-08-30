@@ -27,5 +27,5 @@ into some of the older threads.
 ### Twitter
 
 If you have something quick and easy, just ping me on Twitter. 140 characters
-makes everyone more efficient. I'm [@artivilla99](https://twitter.com/artivilla99) on
+makes everyone more efficient. I'm [@artivilla](https://twitter.com/artivilla) on
 Twitter.
