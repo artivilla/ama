@@ -2,8 +2,6 @@
 
 This is a quick little ask-me-anything type of repository. It is forked from [@holman's feedback repo](https://github.com/holman/feedback) and seems like a pretty fantastic idea in lieu of traditional blog comments, email, and the like.
 
-If you have any technical problems with Git, GitHub or how to contact me via Github, you're better off asking [GitHub Support](https://github.com/contact) directly, since you'll end up getting a much faster response back that way.
-
 ### Ask a question
 
 Asking a question is as easy as
