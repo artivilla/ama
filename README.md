@@ -1,11 +1,11 @@
-# artivilla99/feedback
+# artivilla99/ama
 
-This is a quick little ask-me-anything type of repository. It is forked from [@holman's feedback repo](https://github.com/holman/feedback) and seems like a pretty fantastic idea in lieu of traditional blog comments, email, and the like.
+This is a quick little ask-me-anything type of repository. It is forked from [@holman's ama repo](https://github.com/holman/ama) and seems like a pretty fantastic idea in lieu of traditional blog comments, email, and the like.
 
 ### Ask a question
 
 Asking a question is as easy as
-[creating a new issue](https://github.com/artivilla99/feedback/issues/new) on this
+[creating a new issue](https://github.com/artivilla99/ama/issues/new) on this
 project.
 
 I'll try to answer it as soon as I can get to it. Once I answer I'll close the
@@ -17,7 +17,7 @@ ask a question on any old issue too, even if you didn't create it.
 
 ### Read some questions
 
-Check out the [Closed Issues](https://github.com/artivilla99/feedback/issues?q=is%3Aclosed+is%3Aissue+)
+Check out the [Closed Issues](https://github.com/artivilla99/ama/issues?q=is%3Aclosed+is%3Aissue+)
 filter on this repository to browse questions I've answered in the past. I try
 to use this as an email replacement that everyone can see, so feel free to dig
 into some of the older threads.
